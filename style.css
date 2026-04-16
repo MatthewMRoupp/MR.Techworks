@@ -298,13 +298,13 @@ p {
 }
 
 .site-logo {
-  width: 100px;
-  height: 100px;
+  width: 70px;
+  height: 70px;
   display: grid;
   place-items: center;
   flex: 0 0 auto;
   border-radius: 50%;
-  background: center / contain no-repeat url("assets/images/favicon.ico");
+  background: center / contain no-repeat url("assets/images/MRTechworksLogo.png");
   color: transparent;
   font-size: 0;
   text-indent: -9999px;
