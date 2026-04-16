@@ -303,8 +303,8 @@ p {
   display: grid;
   place-items: center;
   flex: 0 0 auto;
-  border-radius: 50%;
-  background: center / contain no-repeat url("assets/images/MRTechworksLogo.png");
+  border-radius: 0%;
+  background: center / contain no-repeat url("assets/images/favicon.ico");
   color: transparent;
   font-size: 0;
   text-indent: -9999px;
